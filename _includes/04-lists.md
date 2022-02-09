@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Basketball
+* Chipolte
+* Video Games
+    * Call of Duty
+    * Minecraft
+    * Runescape     
